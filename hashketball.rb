@@ -100,9 +100,9 @@ def game_hash
       },
       {
         player_name: "Ben Gordon",
-        number: 0,
-        shoe: 16,
-        points: 22,
+        number: 8,
+        shoe: 15,
+        points: 33,
         rebounds: 12,
         assists: 12,
         steals: 3,
