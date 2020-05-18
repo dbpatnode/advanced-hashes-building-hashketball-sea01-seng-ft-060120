@@ -39,9 +39,9 @@ def game_hash
       },
       {
         player_name: "Mason Plumlee",
-        number: 0,
-        shoe: 16,
-        points: 22,
+        number: 1,
+        shoe: 19,
+        points: 26,
         rebounds: 12,
         assists: 12,
         steals: 3,
